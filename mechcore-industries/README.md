@@ -110,4 +110,4 @@ function running exactly as it will in production.
 - **Swapping content**: product photos live in `images/`, all copy is
   directly in `index.html`, and colors/fonts are CSS variables at the
   top of `style.css` (`:root { --ink: ...; --orange: ...; }`) if you
-  want to adjust the palette later.
+  want to adjust the palette later. 
