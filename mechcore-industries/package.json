@@ -1,0 +1,12 @@
+{
+  "name": "mechcore-industries-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mech-Core Industries — company website with a working quote-request form.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
